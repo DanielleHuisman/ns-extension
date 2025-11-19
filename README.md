@@ -27,3 +27,7 @@ Browser extension to fix the CSS of [NS Actuele Vertrektijden](https://www.ns.nl
 2. Click **This Firefox** in the menu.
 
 3. Click the **Load Temporary Add-On** button and select the extension manifest (`manifest.json`).
+
+## License
+
+This project is available under the [MIT license](LICENSE.md).
