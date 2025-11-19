@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://www.ns.nl/fe-platform-static/nsdesign/3721585/css/ns.generic.css"
+      }
+    },
+    "condition": {
+      "urlFilter": "https://www.ns.nl/fe-platform-static/nsdesign/1765161/css/ns.generic.css",
+      "resourceTypes": ["stylesheet"]
+    }
+  }
+]

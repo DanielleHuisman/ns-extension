@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "NS Actuele Vertrektijden",
+  "version": "1.0.0",
+  "description": "Fix the CSS of \"NS Actuele Vertrektijden\".",
+  "host_permissions": ["*://*.ns.nl/*"],
+  "permissions": ["declarativeNetRequest"],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "rules",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  }
+}
